@@ -2,3 +2,23 @@
 	path = volk
 	url = https://github.com/gnuradio/volk.git
 	branch = master
+[submodule "gr-libfec"]
+	path = gr-libfec
+	url = https://github.com/daniestevez/gr-libfec
+	branch = my_stream
+[submodule "gr-sids"]
+	path = gr-sids
+	url = https://github.com/daniestevez/gr-sids
+	branch = my_stream
+[submodule "gr-synctags"]
+	path = gr-synctags
+	url = https://github.com/daniestevez/gr-synctags
+	branch = my_stream
+[submodule "gr-kiss"]
+	path = gr-kiss
+	url = https://github.com/daniestevez/gr-kiss
+	branch = my_stream
+[submodule "gr-radar"]
+	path = gr-radar
+	url = https://github.com/kit-cel/gr-radar
+	branch = my_stream
