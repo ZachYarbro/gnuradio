@@ -26,3 +26,6 @@
 	path = gr-satellites
 	url = https://github.com/daniestevez/gr-satellites
 	branch = my_stream
+[submodule "osmosdr"]
+	path = gr-osmosdr
+	url = git://git.osmocom.org/gr-osmosdr.git
