@@ -29,3 +29,7 @@
 [submodule "osmosdr"]
 	path = gr-osmosdr
 	url = git://git.osmocom.org/gr-osmosdr.git
+[submodule "gr-csp"]
+	path = gr-csp
+	url = https://github.com/daniestevez/gr-csp.git
+	branch = my_stream
