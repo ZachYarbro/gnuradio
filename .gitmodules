@@ -22,3 +22,7 @@
 	path = gr-radar
 	url = https://github.com/kit-cel/gr-radar
 	branch = my_stream
+[submodule "gr-satellites"]
+	path = gr-satellites
+	url = https://github.com/daniestevez/gr-satellites
+	branch = my_stream
