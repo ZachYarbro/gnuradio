@@ -26,3 +26,9 @@
 	path = gr-satellites
 	url = https://github.com/daniestevez/gr-satellites
 	branch = my_stream
+[submodule "gr-csp"]
+	path = gr-csp
+	url = ./gr-csp
+[submodule "gr-osmosdr"]
+	path = gr-osmosdr
+	url = ./gr-osmosdr
